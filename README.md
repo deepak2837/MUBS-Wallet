@@ -4,9 +4,9 @@
 
 MUBS Wallet is a cutting-edge digital financial solution designed to simplify your everyday transactions, providing you with convenience and security at your fingertips. Whether you're shopping, paying bills, or managing your finances, MUBS Wallet is your reliable companion for all your financial needs.
 
-**Live Link**: <h1>[MUBS Wallet](https://mubs-wallet.netlify.app/)</h1>
+**Live Link**: <h1>(https://mubs-wallet.netlify.app/)</h1>
 
-This project was completed for a client, and the backend is deployed on Digital Ocean at this address: [MUBS Wallet Backend](https://seashell-app-cthwc.ondigitalocean.app/)
+This project was completed for a client, and the backend is deployed on Digital Ocean at this address:<h1> https://seashell-app-cthwc.ondigitalocean.app/</h1>
 
 ## Key Features
 
