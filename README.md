@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+live link : <h1>https://mubs-wallet.netlify.app/</h1>
+this was a client project , backend of this project is deployed on digital ocean at this address https://seashell-app-cthwc.ondigitalocean.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+MUBS Wallet - Your Trusted Digital Financial Companion
 
-## Available Scripts
+MUBS Wallet is a cutting-edge digital financial solution designed to simplify your everyday transactions, providing you with convenience and security at your fingertips. Whether you're shopping, paying bills, or managing your finances, MUBS Wallet is your reliable companion for all your financial needs.
 
-In the project directory, you can run:
+Key Features of this app :
 
-### `npm start`
+Secure Transactions: With advanced encryption and security measures, your financial data is protected, ensuring your transactions are safe and secure.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Quick and Easy Payments: MUBS Wallet offers lightning-fast payment options, making your in-store and online purchases a breeze.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Bill Payment: Say goodbye to the hassle of queuing to pay your bills. MUBS Wallet allows you to settle your utility bills, subscriptions, and more with a few taps on your smartphone.
 
-### `npm test`
+Fund Transfers: Send and receive money within seconds, both domestically and internationally. No more waiting for bank hours or dealing with lengthy paperwork.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Expense Tracking: Keep a close eye on your spending habits with MUBS Wallet's intuitive expense tracking feature. Understand where your money goes and make informed financial decisions.
 
-### `npm run build`
+24/7 Customer Support: Our dedicated customer support team is available around the clock to assist you with any inquiries or issues you may have.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Digital Loyalty Cards: Store all your loyalty cards in one place. Say goodbye to bulky wallets and easily access your rewards programs.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Financial Insights: Get insights into your financial health, make better budgeting decisions, and work towards your financial goals with MUBS Wallet's financial management tools.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+MUBS Wallet is committed to enhancing your financial experience, providing you with the flexibility and control you need in today's fast-paced world. Join the digital financial revolution with MUBS Wallet and unlock a world of convenience, security, and endless possibilities. Your financial future begins here.
